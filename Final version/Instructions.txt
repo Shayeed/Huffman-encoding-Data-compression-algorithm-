@@ -1,0 +1,17 @@
+INSTRUCTIONS :-
+
+The following program encodes a txt file and also decodes it.
+
+Steps for encoding:-
+1. Open the encoder folder
+2. Copy the file to be encoded in it and re-name it "encode_in"
+3. Run the program it will output two file
+4. File "encode_out" contains the encoded data
+5. File "Frequency" contains the frequency of characters
+
+Steps to decoding:-
+1. Open the decoder folder  
+2. Copy the encoded file in it and re-name it "encode_out"
+3. Copy the frequency file in it and re-name it "Frequency"
+4. Run the program
+5. It will given a new file "decode_out" which contains your decoded code
